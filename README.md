@@ -17,3 +17,6 @@
 
 &nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Styled Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=111"/>
 
+### 🥅 Purpose of the Day!
+
+* 매일 TIL(Today I Learned) 작성하기
