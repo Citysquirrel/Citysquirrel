@@ -7,11 +7,11 @@
 ### :wrench: My Stacks! 
 📖 Languages
 
-<img src="https://img.shields.io/badge/Typescript-333?style=for-the-badge&logo=TypeScript&logoColor=asd"/><img src="https://img.shields.io/badge/HTML5-444?style=for-the-badge&logo=HTML5&logoColor=asd"/><img src="https://img.shields.io/badge/CSS3-555?style=for-the-badge&logo=CSS3&logoColor=1572B6"/><img src="https://img.shields.io/badge/Lua-666?style=for-the-badge&logo=Lua&logoColor=2C2D72"/>
+<img src="https://img.shields.io/badge/Typescript-333?style=for-the-badge&logo=TypeScript&logoColor=asd"/><img src="https://img.shields.io/badge/HTML5-444?style=for-the-badge&logo=HTML5&logoColor=asd"/><img src="https://img.shields.io/badge/CSS3-555?style=for-the-badge&logo=CSS3&logoColor=1572B6"/><img src="https://img.shields.io/badge/Lua-666?style=for-the-badge&logo=Lua&logoColor=4345AF"/>
 
 🧰 Frameworks / Libraries
 
-<img src="https://img.shields.io/badge/React-333?style=for-the-badge&logo=react&logoColor=asd"/><img src="https://img.shields.io/badge/Redux-444?style=for-the-badge&logo=redux&logoColor=764ABC"/><img src="https://img.shields.io/badge/Express-555?style=for-the-badge&logo=express&logoColor=000000"/>
+<img src="https://img.shields.io/badge/React-333?style=for-the-badge&logo=react&logoColor=asd"/><img src="https://img.shields.io/badge/Redux-444?style=for-the-badge&logo=redux&logoColor=B097D8"/><img src="https://img.shields.io/badge/Express-555?style=for-the-badge&logo=express&logoColor=EAEAEA"/>
 
 &nbsp;&nbsp;&nbsp;❤️ Love 
 
