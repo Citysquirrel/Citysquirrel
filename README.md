@@ -19,5 +19,5 @@
 
 ### 🥅 Purpose of the Day!
 
-* 매일 TIL(Today I Learned) 작성하기
+* TIL(Today I Learned) 작성하기
 * 하루 1 commit 이상 달성하기
