@@ -1,7 +1,7 @@
 ## 🐿️ 코딩하는 다람쥐
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=citysquirrel&show_icons=true&theme=github_dark)
 
-<a href="https://velog.io/@tok1324" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=111"/></a>
+<a href="https://citysquirrel.github.io/blog" target="_blank"><img src="https://img.shields.io/badge/Blog-24292f?style=for-the-badge&logo=github&logoColor=fff"/></a>
 <a href="mailto:tok1324@naver.com"><img src="https://img.shields.io/badge/mail-03C75A?style=for-the-badge&logo=naver&logoColor=111"/></a>
 
 ### :wrench: My Stacks! 
@@ -19,4 +19,4 @@
 
 ### 🥅 Purpose of the Day!
 
-* TID(Today I Did) 작성하기
+* 알고리즘 공부하기 @.@
