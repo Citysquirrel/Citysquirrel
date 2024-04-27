@@ -5,3 +5,4 @@
 <a href="https://citysquirrel.github.io/blog" target="_blank"><img src="https://img.shields.io/badge/Blog-24292f?style=for-the-badge&logo=github&logoColor=fff"/></a> -->
 <a href="mailto:tok1324@naver.com"><img src="https://img.shields.io/badge/mail-03C75A?style=for-the-badge&logo=naver&logoColor=111"/></a>
 
+활동 재개합니다
